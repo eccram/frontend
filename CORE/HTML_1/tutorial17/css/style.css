@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+.wrapper{
+	width: 100%;
+	background: green;
+}
+
+.box {
+	width: 50%;
+	background: black;
+	color: white;
+	font-size: 22px;
+}
